@@ -42,9 +42,8 @@ PI STARTUP CONFIGURATIONS:
       PIP IS THE PACKAGE INSTALLER FOR PYTHON.
 
 
-6)PI STARTUP PROGRAM RUN:
-   - To startup program what we are gonna use systemd, if want also host pi's own hotspot.
-  
+6) PI STARTUP PROGRAM RUN:
+   - To run program on startup use systemd for better efficiency and also want hot pi's own hotspot.  
    ii)TO STOP THE PROGRAM FROM RUNNING:
         ps aux | grep python
        -IF YOU FIND THE FILE, NOTE THE NUMBER, THEN:
